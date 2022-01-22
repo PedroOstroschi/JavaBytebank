@@ -1,3 +1,8 @@
+package Testes;
+
+import modulos.Cliente;
+import modulos.Conta;
+
 public class TesteBanco {
     public static void main(String[] args) {
         Cliente paulo = new Cliente();

@@ -1,3 +1,7 @@
+package Testes;
+
+import modulos.Conta;
+
 public class TesteMetodo {
     public static void main(String[] args) {
         Conta contaDoPaulo = new Conta(6646,969060);
